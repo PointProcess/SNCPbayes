@@ -1,0 +1,4 @@
+#' @useDynLib ShotSliceSampler
+#' @importFrom Rcpp sourceCpp
+NULL
+
